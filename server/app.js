@@ -25,3 +25,4 @@ app.use('/api/v1/user', userRoutes);
 app.use(errorHandler);
 
 module.exports = app;
+
