@@ -54,3 +54,4 @@ exports.getProfile = catchAsync(async (req, res, next) => {
     data: { ...data, ...user, reviews }
   });
 });
+
