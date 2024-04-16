@@ -14,3 +14,4 @@ router.get('/me', authController.getCurrentUser);
 router.get('/logout', protect, authController.logout);
 
 module.exports = router;
+
