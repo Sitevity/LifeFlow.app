@@ -62,3 +62,4 @@ const BloodRequest = new mongoose.Schema(
 
 BloodRequest.index({ locationCoordinates: '2dsphere' });
 module.exports = mongoose.model('BloodRequest', BloodRequest, 'blood-requests');
+
