@@ -36,3 +36,4 @@ exports.getUnreadCount = catchAsync(async (req, res, next) => {
   const count = await Notification.find(query).count();
   res.status(200).json({ success: true, data: { count } });
 });
+
