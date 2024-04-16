@@ -7,7 +7,7 @@ class Email {
     this.name = user.name;
     this.to = user.email;
     this.data = data;
-    this.from = `Blood Donation <noreply@blood-donation.com>`;
+    this.from = `LifeFlow <noreply@lifeflow.hostflix.in>`;
   }
 
   _newTransport() {
