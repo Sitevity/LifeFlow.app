@@ -6,3 +6,4 @@ const { protect } = require('../middlewares/auth');
 router.get('/:id', protect, userController.getProfile);
 
 module.exports = router;
+
