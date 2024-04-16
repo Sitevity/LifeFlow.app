@@ -19,3 +19,4 @@ List<String> bloodTypes = [
   'AB Positive (AB+)',
   'AB Negative (AB-)',
 ];
+
