@@ -40,3 +40,4 @@ const Notification = new mongoose.Schema(
 );
 
 module.exports = mongoose.model('Notification', Notification);
+
