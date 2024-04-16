@@ -7,3 +7,4 @@ router.get('/', protect, notificationController.getAllNotifications);
 router.get('/count', protect, notificationController.getUnreadCount);
 
 module.exports = router;
+
