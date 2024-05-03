@@ -1,4 +1,4 @@
-# LifeFlow Blood Donation App 🩸
+# LifeFlow : Blood Donation App 🩸
 
 <img src="https://github.com/jagadeesh-k-2802/blood-donation-app-flutter/assets/63912668/c722e9c6-68f6-4f0e-982d-c27a7dda3ab3" width="750" />
 
